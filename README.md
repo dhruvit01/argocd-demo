@@ -1,2 +1,2 @@
-# argocd-demo
+# argocd-demo for CD
 demo for ArgoCD
